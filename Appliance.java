@@ -12,7 +12,7 @@ public class Appliance {
         this.powerOn = powerOn;
         this.probOn = probOn;
         this.isOn = false;
-    }
+    } 
 
     // contructor with appliance attribute to copy the attribute
     // ( used to create a local reference)
@@ -84,5 +84,4 @@ public class Appliance {
         }
         return false;
     }
-    
 }
