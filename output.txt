@@ -4,7 +4,6 @@ Room: 10000005 Appliance: Refrigerator - Freezer 25 cu. ft. - Side by Side
 Room: 10000004 Appliance: Refrigerator - Freezer 25 cu. ft. - Side by Side
 Room: 10000001 Appliance: Refrigerator - Freezer 25 cu. ft. - Side by Side
 Room: 10000004 Appliance: Refrigerator - Freezer 21 cu. ft.- Side by Side
-Room: 10000003 Appliance: Air Conditioner - 7000 BTU
 Room: 10000003 Appliance: Refrigerator - Freezer 24 cu. ft. - Frostfree
 Room: 10000003 Appliance: Freezer - Upright/Chest 17 cu. ft
 Room: 10000005 Appliance: Refrigerator - 19 cu. ft. - Frostfree
@@ -29,6 +28,33 @@ Room: 10000005 Appliance: Range - Large Surface Unit
 Room: 10000005 Appliance: Laptop
 Room: 10000005 Appliance: Dishwasher (With Dry Cycle)
 Room: 10000005 Appliance: Dishwasher (Without Dry Cycle)
+Room: 10000001 Appliance: VCR
+Room: 10000001 Appliance: Slow Cooker
+Room: 10000001 Appliance: Fan
+Room: 10000001 Appliance: Lighting - 7 rooms (12 60W)
+Room: 10000001 Appliance: Fan (Window)
+Room: 10000001 Appliance: Lighting - Fluorescent 2 bulb
+Room: 10000001 Appliance: Compactor (Trash)
+Room: 10000001 Appliance: Television - 13 inch
+Room: 10000001 Appliance: Computer Printer (Printing)
+Room: 10000001 Appliance: Fish Tank (10 Gallon)
+Room: 10000001 Appliance: DVD
+Room: 10000001 Appliance: Television - 55 inch
+Room: 10000001 Appliance: Dishwasher (Without Dry Cycle)
+Room: 10000003 Appliance: Exercise Equipment - Treadmill 3 H.P.
+Room: 10000003 Appliance: Telephone - Cordless
+Room: 10000003 Appliance: Lighting - Comp Fluorescent - 18 Watt
+Room: 10000003 Appliance: Clock - Electric
+Room: 10000003 Appliance: Iron
+Room: 10000003 Appliance: Television - 25 inch
+Room: 10000003 Appliance: Range - Large Surface Unit
+Room: 10000003 Appliance: Toaster
+Room: 10000003 Appliance: Lighting - 60 Watt
+Room: 10000003 Appliance: Television - 55 inch
+Room: 10000003 Appliance: Compactor (Trash)
+Room: 10000003 Appliance: Fan
+Room: 10000003 Appliance: Hair Dryer (Hand Held)
+Room: 10000003 Appliance: Air Conditioner - 7000 BTU
 Room: 10000002 Appliance: Lighting - Fluorescent 2 bulb
 Room: 10000002 Appliance: Oven
 Room: 10000002 Appliance: Television/DVD/VCR Combination
@@ -43,32 +69,6 @@ Room: 10000002 Appliance: Answering Machine
 Room: 10000002 Appliance: Clock - Electric
 Room: 10000002 Appliance: Lighting - 100 Watt
 Room: 10000002 Appliance: Air Conditioner - 10000 BTU
-Room: 10000003 Appliance: Exercise Equipment - Treadmill 3 H.P.
-Room: 10000003 Appliance: Telephone - Cordless
-Room: 10000003 Appliance: Lighting - Comp Fluorescent - 18 Watt
-Room: 10000003 Appliance: Clock - Electric
-Room: 10000003 Appliance: Iron
-Room: 10000003 Appliance: Television - 25 inch
-Room: 10000003 Appliance: Range - Large Surface Unit
-Room: 10000003 Appliance: Toaster
-Room: 10000003 Appliance: Lighting - 60 Watt
-Room: 10000003 Appliance: Television - 55 inch
-Room: 10000003 Appliance: Compactor (Trash)
-Room: 10000003 Appliance: Fan
-Room: 10000003 Appliance: Hair Dryer (Hand Held)
-Room: 10000001 Appliance: VCR
-Room: 10000001 Appliance: Slow Cooker
-Room: 10000001 Appliance: Fan
-Room: 10000001 Appliance: Lighting - 7 rooms (12 60W)
-Room: 10000001 Appliance: Fan (Window)
-Room: 10000001 Appliance: Lighting - Fluorescent 2 bulb
-Room: 10000001 Appliance: Compactor (Trash)
-Room: 10000001 Appliance: Television - 13 inch
-Room: 10000001 Appliance: Computer Printer (Printing)
-Room: 10000001 Appliance: Fish Tank (10 Gallon)
-Room: 10000001 Appliance: DVD
-Room: 10000001 Appliance: Television - 55 inch
-Room: 10000001 Appliance: Dishwasher (Without Dry Cycle)
 Room: 10000004 Appliance: Lighting - Fluorescent 2 bulb
 Room: 10000004 Appliance: Television Plasma 42' - 50'
 Room: 10000004 Appliance: Lawn Equipment - Weed Eater
@@ -86,11 +86,12 @@ Room: 10000004 Appliance: Computer with Monitor
 
 Time Step 2, Appliances Affected
 
-Room: 10000002 Appliance: Air Conditioner - 10000 BTU
 Room: 10000005 Appliance: Refrigerator - Freezer 25 cu. ft. - Side by Side
 Room: 10000004 Appliance: Refrigerator - Freezer 25 cu. ft. - Side by Side
 Room: 10000001 Appliance: Refrigerator - Freezer 25 cu. ft. - Side by Side
 Room: 10000004 Appliance: Refrigerator - Freezer 21 cu. ft.- Side by Side
+Room: 10000004 Appliance: Air Conditioner - 7000 BTU
+Room: 10000003 Appliance: Air Conditioner - 7000 BTU
 Room: 10000003 Appliance: Refrigerator - Freezer 24 cu. ft. - Frostfree
 Room: 10000003 Appliance: Freezer - Upright/Chest 17 cu. ft
 Room: 10000005 Appliance: Refrigerator - 19 cu. ft. - Frostfree
@@ -99,12 +100,24 @@ Room: 10000001 Appliance: Refrigerator - 17 cu. ft - Frostfree
 Room: 10000003 Appliance: Refrigerator - 14 cu. ft. - Frostfree
 Room: 10000002 Appliance: Refrigerator - 14 cu. ft. - Frostfree
 Room: 10000002 Appliance: Computer with Monitor
-Room: 10000004 Appliance: Computer with Monitor
 Room: 10000001 Appliance: Refrigerator - 1.7 cu. ft.
 Room: 10000004 Appliance: Air Purifier
 Room: 10000004 Appliance: Air Purifier
 Room: 10000002 Appliance: Air Purifier
-Room: 10000005 Appliance: Laptop
+Room: 10000002 Appliance: Lighting - Fluorescent 2 bulb
+Room: 10000002 Appliance: Oven
+Room: 10000002 Appliance: Television/DVD/VCR Combination
+Room: 10000002 Appliance: Lighting - 75 Watt
+Room: 10000002 Appliance: Television - 43 inch
+Room: 10000002 Appliance: Exercise Equipment - Treadmill 2 H.P.
+Room: 10000002 Appliance: Television Plasma 42' - 50'
+Room: 10000002 Appliance: Television - 60 inch
+Room: 10000002 Appliance: Lighting - 5 rooms (10 60W)
+Room: 10000002 Appliance: Bug Killer
+Room: 10000002 Appliance: Answering Machine
+Room: 10000002 Appliance: Clock - Electric
+Room: 10000002 Appliance: Lighting - 100 Watt
+Room: 10000002 Appliance: Air Conditioner - 10000 BTU
 Room: 10000005 Appliance: Lighting - 40 Watt
 Room: 10000005 Appliance: Microwave Oven
 Room: 10000005 Appliance: Oven
@@ -114,6 +127,7 @@ Room: 10000005 Appliance: Coffee Maker
 Room: 10000005 Appliance: Compactor (Trash)
 Room: 10000005 Appliance: Television - 43 inch
 Room: 10000005 Appliance: Range - Large Surface Unit
+Room: 10000005 Appliance: Laptop
 Room: 10000005 Appliance: Dishwasher (With Dry Cycle)
 Room: 10000005 Appliance: Dishwasher (Without Dry Cycle)
 Room: 10000003 Appliance: Exercise Equipment - Treadmill 3 H.P.
@@ -129,7 +143,19 @@ Room: 10000003 Appliance: Television - 55 inch
 Room: 10000003 Appliance: Compactor (Trash)
 Room: 10000003 Appliance: Fan
 Room: 10000003 Appliance: Hair Dryer (Hand Held)
-Room: 10000003 Appliance: Air Conditioner - 7000 BTU
+Room: 10000004 Appliance: Lighting - Fluorescent 2 bulb
+Room: 10000004 Appliance: Television Plasma 42' - 50'
+Room: 10000004 Appliance: Lawn Equipment - Weed Eater
+Room: 10000004 Appliance: Fax Machine
+Room: 10000004 Appliance: Clock - Electric
+Room: 10000004 Appliance: Answering Machine
+Room: 10000004 Appliance: Lighting - 75 Watt
+Room: 10000004 Appliance: Fan
+Room: 10000004 Appliance: Lighting - 100 Watt
+Room: 10000004 Appliance: Fan (Window)
+Room: 10000004 Appliance: Lighting - 40 Watt
+Room: 10000004 Appliance: Video Game
+Room: 10000004 Appliance: Computer with Monitor
 Room: 10000001 Appliance: VCR
 Room: 10000001 Appliance: Slow Cooker
 Room: 10000001 Appliance: Fan
@@ -143,32 +169,6 @@ Room: 10000001 Appliance: Fish Tank (10 Gallon)
 Room: 10000001 Appliance: DVD
 Room: 10000001 Appliance: Television - 55 inch
 Room: 10000001 Appliance: Dishwasher (Without Dry Cycle)
-Room: 10000002 Appliance: Lighting - Fluorescent 2 bulb
-Room: 10000002 Appliance: Oven
-Room: 10000002 Appliance: Television/DVD/VCR Combination
-Room: 10000002 Appliance: Lighting - 75 Watt
-Room: 10000002 Appliance: Television - 43 inch
-Room: 10000002 Appliance: Exercise Equipment - Treadmill 2 H.P.
-Room: 10000002 Appliance: Television Plasma 42' - 50'
-Room: 10000002 Appliance: Television - 60 inch
-Room: 10000002 Appliance: Lighting - 5 rooms (10 60W)
-Room: 10000002 Appliance: Bug Killer
-Room: 10000002 Appliance: Answering Machine
-Room: 10000002 Appliance: Clock - Electric
-Room: 10000002 Appliance: Lighting - 100 Watt
-Room: 10000004 Appliance: Lighting - Fluorescent 2 bulb
-Room: 10000004 Appliance: Television Plasma 42' - 50'
-Room: 10000004 Appliance: Lawn Equipment - Weed Eater
-Room: 10000004 Appliance: Fax Machine
-Room: 10000004 Appliance: Clock - Electric
-Room: 10000004 Appliance: Answering Machine
-Room: 10000004 Appliance: Lighting - 75 Watt
-Room: 10000004 Appliance: Fan
-Room: 10000004 Appliance: Lighting - 100 Watt
-Room: 10000004 Appliance: Fan (Window)
-Room: 10000004 Appliance: Lighting - 40 Watt
-Room: 10000004 Appliance: Video Game
-Room: 10000004 Appliance: Air Conditioner - 7000 BTU
 
 Time Step 3, Appliances Affected
 
@@ -176,8 +176,6 @@ Room: 10000005 Appliance: Refrigerator - Freezer 25 cu. ft. - Side by Side
 Room: 10000004 Appliance: Refrigerator - Freezer 25 cu. ft. - Side by Side
 Room: 10000001 Appliance: Refrigerator - Freezer 25 cu. ft. - Side by Side
 Room: 10000004 Appliance: Refrigerator - Freezer 21 cu. ft.- Side by Side
-Room: 10000003 Appliance: Air Conditioner - 7000 BTU
-Room: 10000004 Appliance: Air Conditioner - 7000 BTU
 Room: 10000003 Appliance: Refrigerator - Freezer 24 cu. ft. - Frostfree
 Room: 10000003 Appliance: Freezer - Upright/Chest 17 cu. ft
 Room: 10000005 Appliance: Refrigerator - 19 cu. ft. - Frostfree
@@ -185,11 +183,11 @@ Room: 10000004 Appliance: Refrigerator - 17 cu. ft - Frostfree
 Room: 10000001 Appliance: Refrigerator - 17 cu. ft - Frostfree
 Room: 10000003 Appliance: Refrigerator - 14 cu. ft. - Frostfree
 Room: 10000002 Appliance: Refrigerator - 14 cu. ft. - Frostfree
+Room: 10000004 Appliance: Computer with Monitor
 Room: 10000001 Appliance: Refrigerator - 1.7 cu. ft.
 Room: 10000004 Appliance: Air Purifier
 Room: 10000004 Appliance: Air Purifier
 Room: 10000002 Appliance: Air Purifier
-Room: 10000005 Appliance: Laptop
 Room: 10000002 Appliance: Lighting - Fluorescent 2 bulb
 Room: 10000002 Appliance: Oven
 Room: 10000002 Appliance: Television/DVD/VCR Combination
@@ -214,21 +212,9 @@ Room: 10000005 Appliance: Coffee Maker
 Room: 10000005 Appliance: Compactor (Trash)
 Room: 10000005 Appliance: Television - 43 inch
 Room: 10000005 Appliance: Range - Large Surface Unit
+Room: 10000005 Appliance: Laptop
 Room: 10000005 Appliance: Dishwasher (With Dry Cycle)
 Room: 10000005 Appliance: Dishwasher (Without Dry Cycle)
-Room: 10000001 Appliance: VCR
-Room: 10000001 Appliance: Slow Cooker
-Room: 10000001 Appliance: Fan
-Room: 10000001 Appliance: Lighting - 7 rooms (12 60W)
-Room: 10000001 Appliance: Fan (Window)
-Room: 10000001 Appliance: Lighting - Fluorescent 2 bulb
-Room: 10000001 Appliance: Compactor (Trash)
-Room: 10000001 Appliance: Television - 13 inch
-Room: 10000001 Appliance: Computer Printer (Printing)
-Room: 10000001 Appliance: Fish Tank (10 Gallon)
-Room: 10000001 Appliance: DVD
-Room: 10000001 Appliance: Television - 55 inch
-Room: 10000001 Appliance: Dishwasher (Without Dry Cycle)
 Room: 10000003 Appliance: Exercise Equipment - Treadmill 3 H.P.
 Room: 10000003 Appliance: Telephone - Cordless
 Room: 10000003 Appliance: Lighting - Comp Fluorescent - 18 Watt
@@ -242,6 +228,20 @@ Room: 10000003 Appliance: Television - 55 inch
 Room: 10000003 Appliance: Compactor (Trash)
 Room: 10000003 Appliance: Fan
 Room: 10000003 Appliance: Hair Dryer (Hand Held)
+Room: 10000003 Appliance: Air Conditioner - 7000 BTU
+Room: 10000001 Appliance: VCR
+Room: 10000001 Appliance: Slow Cooker
+Room: 10000001 Appliance: Fan
+Room: 10000001 Appliance: Lighting - 7 rooms (12 60W)
+Room: 10000001 Appliance: Fan (Window)
+Room: 10000001 Appliance: Lighting - Fluorescent 2 bulb
+Room: 10000001 Appliance: Compactor (Trash)
+Room: 10000001 Appliance: Television - 13 inch
+Room: 10000001 Appliance: Computer Printer (Printing)
+Room: 10000001 Appliance: Fish Tank (10 Gallon)
+Room: 10000001 Appliance: DVD
+Room: 10000001 Appliance: Television - 55 inch
+Room: 10000001 Appliance: Dishwasher (Without Dry Cycle)
 Room: 10000004 Appliance: Lighting - Fluorescent 2 bulb
 Room: 10000004 Appliance: Television Plasma 42' - 50'
 Room: 10000004 Appliance: Lawn Equipment - Weed Eater
@@ -254,17 +254,14 @@ Room: 10000004 Appliance: Lighting - 100 Watt
 Room: 10000004 Appliance: Fan (Window)
 Room: 10000004 Appliance: Lighting - 40 Watt
 Room: 10000004 Appliance: Video Game
-Room: 10000004 Appliance: Computer with Monitor
+Room: 10000004 Appliance: Air Conditioner - 7000 BTU
 
 Time Step 4, Appliances Affected
 
-Room: 10000002 Appliance: Air Conditioner - 10000 BTU
-Room: 10000002 Appliance: Air Conditioner - 10000 BTU
 Room: 10000005 Appliance: Refrigerator - Freezer 25 cu. ft. - Side by Side
 Room: 10000004 Appliance: Refrigerator - Freezer 25 cu. ft. - Side by Side
 Room: 10000001 Appliance: Refrigerator - Freezer 25 cu. ft. - Side by Side
 Room: 10000004 Appliance: Refrigerator - Freezer 21 cu. ft.- Side by Side
-Room: 10000003 Appliance: Air Conditioner - 7000 BTU
 Room: 10000003 Appliance: Refrigerator - Freezer 24 cu. ft. - Frostfree
 Room: 10000003 Appliance: Freezer - Upright/Chest 17 cu. ft
 Room: 10000005 Appliance: Refrigerator - 19 cu. ft. - Frostfree
@@ -272,12 +269,12 @@ Room: 10000004 Appliance: Refrigerator - 17 cu. ft - Frostfree
 Room: 10000001 Appliance: Refrigerator - 17 cu. ft - Frostfree
 Room: 10000003 Appliance: Refrigerator - 14 cu. ft. - Frostfree
 Room: 10000002 Appliance: Refrigerator - 14 cu. ft. - Frostfree
-Room: 10000002 Appliance: Computer with Monitor
 Room: 10000004 Appliance: Computer with Monitor
 Room: 10000001 Appliance: Refrigerator - 1.7 cu. ft.
 Room: 10000004 Appliance: Air Purifier
 Room: 10000004 Appliance: Air Purifier
 Room: 10000002 Appliance: Air Purifier
+Room: 10000005 Appliance: Laptop
 Room: 10000005 Appliance: Lighting - 40 Watt
 Room: 10000005 Appliance: Microwave Oven
 Room: 10000005 Appliance: Oven
@@ -289,33 +286,6 @@ Room: 10000005 Appliance: Television - 43 inch
 Room: 10000005 Appliance: Range - Large Surface Unit
 Room: 10000005 Appliance: Dishwasher (With Dry Cycle)
 Room: 10000005 Appliance: Dishwasher (Without Dry Cycle)
-Room: 10000005 Appliance: Laptop
-Room: 10000001 Appliance: VCR
-Room: 10000001 Appliance: Slow Cooker
-Room: 10000001 Appliance: Fan
-Room: 10000001 Appliance: Lighting - 7 rooms (12 60W)
-Room: 10000001 Appliance: Fan (Window)
-Room: 10000001 Appliance: Lighting - Fluorescent 2 bulb
-Room: 10000001 Appliance: Compactor (Trash)
-Room: 10000001 Appliance: Television - 13 inch
-Room: 10000001 Appliance: Computer Printer (Printing)
-Room: 10000001 Appliance: Fish Tank (10 Gallon)
-Room: 10000001 Appliance: DVD
-Room: 10000001 Appliance: Television - 55 inch
-Room: 10000001 Appliance: Dishwasher (Without Dry Cycle)
-Room: 10000003 Appliance: Exercise Equipment - Treadmill 3 H.P.
-Room: 10000003 Appliance: Telephone - Cordless
-Room: 10000003 Appliance: Lighting - Comp Fluorescent - 18 Watt
-Room: 10000003 Appliance: Clock - Electric
-Room: 10000003 Appliance: Iron
-Room: 10000003 Appliance: Television - 25 inch
-Room: 10000003 Appliance: Range - Large Surface Unit
-Room: 10000003 Appliance: Toaster
-Room: 10000003 Appliance: Lighting - 60 Watt
-Room: 10000003 Appliance: Television - 55 inch
-Room: 10000003 Appliance: Compactor (Trash)
-Room: 10000003 Appliance: Fan
-Room: 10000003 Appliance: Hair Dryer (Hand Held)
 Room: 10000002 Appliance: Lighting - Fluorescent 2 bulb
 Room: 10000002 Appliance: Oven
 Room: 10000002 Appliance: Television/DVD/VCR Combination
@@ -329,6 +299,35 @@ Room: 10000002 Appliance: Bug Killer
 Room: 10000002 Appliance: Answering Machine
 Room: 10000002 Appliance: Clock - Electric
 Room: 10000002 Appliance: Lighting - 100 Watt
+Room: 10000002 Appliance: Air Conditioner - 10000 BTU
+Room: 10000002 Appliance: Computer with Monitor
+Room: 10000003 Appliance: Exercise Equipment - Treadmill 3 H.P.
+Room: 10000003 Appliance: Telephone - Cordless
+Room: 10000003 Appliance: Lighting - Comp Fluorescent - 18 Watt
+Room: 10000003 Appliance: Clock - Electric
+Room: 10000003 Appliance: Iron
+Room: 10000003 Appliance: Television - 25 inch
+Room: 10000003 Appliance: Range - Large Surface Unit
+Room: 10000003 Appliance: Toaster
+Room: 10000003 Appliance: Lighting - 60 Watt
+Room: 10000003 Appliance: Television - 55 inch
+Room: 10000003 Appliance: Compactor (Trash)
+Room: 10000003 Appliance: Fan
+Room: 10000003 Appliance: Hair Dryer (Hand Held)
+Room: 10000003 Appliance: Air Conditioner - 7000 BTU
+Room: 10000001 Appliance: VCR
+Room: 10000001 Appliance: Slow Cooker
+Room: 10000001 Appliance: Fan
+Room: 10000001 Appliance: Lighting - 7 rooms (12 60W)
+Room: 10000001 Appliance: Fan (Window)
+Room: 10000001 Appliance: Lighting - Fluorescent 2 bulb
+Room: 10000001 Appliance: Compactor (Trash)
+Room: 10000001 Appliance: Television - 13 inch
+Room: 10000001 Appliance: Computer Printer (Printing)
+Room: 10000001 Appliance: Fish Tank (10 Gallon)
+Room: 10000001 Appliance: DVD
+Room: 10000001 Appliance: Television - 55 inch
+Room: 10000001 Appliance: Dishwasher (Without Dry Cycle)
 Room: 10000004 Appliance: Lighting - Fluorescent 2 bulb
 Room: 10000004 Appliance: Television Plasma 42' - 50'
 Room: 10000004 Appliance: Lawn Equipment - Weed Eater
@@ -345,7 +344,6 @@ Room: 10000004 Appliance: Air Conditioner - 7000 BTU
 
 Time Step 5, Appliances Affected
 
-Room: 10000002 Appliance: Air Conditioner - 10000 BTU
 Room: 10000005 Appliance: Refrigerator - Freezer 25 cu. ft. - Side by Side
 Room: 10000004 Appliance: Refrigerator - Freezer 25 cu. ft. - Side by Side
 Room: 10000001 Appliance: Refrigerator - Freezer 25 cu. ft. - Side by Side
@@ -363,6 +361,20 @@ Room: 10000001 Appliance: Refrigerator - 1.7 cu. ft.
 Room: 10000004 Appliance: Air Purifier
 Room: 10000004 Appliance: Air Purifier
 Room: 10000002 Appliance: Air Purifier
+Room: 10000002 Appliance: Lighting - Fluorescent 2 bulb
+Room: 10000002 Appliance: Oven
+Room: 10000002 Appliance: Television/DVD/VCR Combination
+Room: 10000002 Appliance: Lighting - 75 Watt
+Room: 10000002 Appliance: Television - 43 inch
+Room: 10000002 Appliance: Exercise Equipment - Treadmill 2 H.P.
+Room: 10000002 Appliance: Television Plasma 42' - 50'
+Room: 10000002 Appliance: Television - 60 inch
+Room: 10000002 Appliance: Lighting - 5 rooms (10 60W)
+Room: 10000002 Appliance: Bug Killer
+Room: 10000002 Appliance: Answering Machine
+Room: 10000002 Appliance: Clock - Electric
+Room: 10000002 Appliance: Lighting - 100 Watt
+Room: 10000002 Appliance: Air Conditioner - 10000 BTU
 Room: 10000005 Appliance: Lighting - 40 Watt
 Room: 10000005 Appliance: Microwave Oven
 Room: 10000005 Appliance: Oven
@@ -375,6 +387,19 @@ Room: 10000005 Appliance: Range - Large Surface Unit
 Room: 10000005 Appliance: Dishwasher (With Dry Cycle)
 Room: 10000005 Appliance: Dishwasher (Without Dry Cycle)
 Room: 10000005 Appliance: Laptop
+Room: 10000001 Appliance: VCR
+Room: 10000001 Appliance: Slow Cooker
+Room: 10000001 Appliance: Fan
+Room: 10000001 Appliance: Lighting - 7 rooms (12 60W)
+Room: 10000001 Appliance: Fan (Window)
+Room: 10000001 Appliance: Lighting - Fluorescent 2 bulb
+Room: 10000001 Appliance: Compactor (Trash)
+Room: 10000001 Appliance: Television - 13 inch
+Room: 10000001 Appliance: Computer Printer (Printing)
+Room: 10000001 Appliance: Fish Tank (10 Gallon)
+Room: 10000001 Appliance: DVD
+Room: 10000001 Appliance: Television - 55 inch
+Room: 10000001 Appliance: Dishwasher (Without Dry Cycle)
 Room: 10000003 Appliance: Exercise Equipment - Treadmill 3 H.P.
 Room: 10000003 Appliance: Telephone - Cordless
 Room: 10000003 Appliance: Lighting - Comp Fluorescent - 18 Watt
@@ -389,32 +414,6 @@ Room: 10000003 Appliance: Compactor (Trash)
 Room: 10000003 Appliance: Fan
 Room: 10000003 Appliance: Hair Dryer (Hand Held)
 Room: 10000003 Appliance: Air Conditioner - 7000 BTU
-Room: 10000002 Appliance: Lighting - Fluorescent 2 bulb
-Room: 10000002 Appliance: Oven
-Room: 10000002 Appliance: Television/DVD/VCR Combination
-Room: 10000002 Appliance: Lighting - 75 Watt
-Room: 10000002 Appliance: Television - 43 inch
-Room: 10000002 Appliance: Exercise Equipment - Treadmill 2 H.P.
-Room: 10000002 Appliance: Television Plasma 42' - 50'
-Room: 10000002 Appliance: Television - 60 inch
-Room: 10000002 Appliance: Lighting - 5 rooms (10 60W)
-Room: 10000002 Appliance: Bug Killer
-Room: 10000002 Appliance: Answering Machine
-Room: 10000002 Appliance: Clock - Electric
-Room: 10000002 Appliance: Lighting - 100 Watt
-Room: 10000001 Appliance: VCR
-Room: 10000001 Appliance: Slow Cooker
-Room: 10000001 Appliance: Fan
-Room: 10000001 Appliance: Lighting - 7 rooms (12 60W)
-Room: 10000001 Appliance: Fan (Window)
-Room: 10000001 Appliance: Lighting - Fluorescent 2 bulb
-Room: 10000001 Appliance: Compactor (Trash)
-Room: 10000001 Appliance: Television - 13 inch
-Room: 10000001 Appliance: Computer Printer (Printing)
-Room: 10000001 Appliance: Fish Tank (10 Gallon)
-Room: 10000001 Appliance: DVD
-Room: 10000001 Appliance: Television - 55 inch
-Room: 10000001 Appliance: Dishwasher (Without Dry Cycle)
 Room: 10000004 Appliance: Lighting - Fluorescent 2 bulb
 Room: 10000004 Appliance: Television Plasma 42' - 50'
 Room: 10000004 Appliance: Lawn Equipment - Weed Eater
