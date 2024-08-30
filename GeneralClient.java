@@ -349,11 +349,7 @@ public class GeneralClient
 		}
         System.out.println( "End of simulation.");
         scnr.close();
-
-
-		
-
-
+        //test 1
     }
     
 }
